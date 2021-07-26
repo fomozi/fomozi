@@ -17,4 +17,4 @@ Fomozi is a Protocol initialized on Binance smart Chain with lower gas cost and 
 - 📧 Email: [admin@fomozi.org](mailto:admin@fomozi.org)
 - 📢 Telegram: [@Fomozi](https://t.me/fomozi)
 - 📊 Bscscan: [0xbb2b8644bbde9141c8b983889d2b73254513f48b](https://bscscan.com/token/0xbb2b8644bbde9141c8b983889d2b73254513f48b)
-- ⚡ Exchange Soon: app.fomozi.org
+- ⚡ Exchange Soon: [dex.fomozi.org](https://dex.fomozi.org)
